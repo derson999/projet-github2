@@ -1,8 +1,10 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Benie from './Benie/Benie'
-import Yohann from './Yohann/Yohann'
+import Yohann from './Yohann/Yohann';
+import Benie from './Benie/Benie';
 import Christian from './Christian/Christian'
+
+
 
 function App() {
   return (
